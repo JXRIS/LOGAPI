@@ -1,6 +1,7 @@
 # Other
 crd.env
 .idea
+keys.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
